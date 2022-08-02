@@ -1,0 +1,82 @@
+{
+"job": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your Company", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your cEO", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your Manager", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your Collegeous", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your Salary", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your Work", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your Department", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"relationship": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"family": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"health": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"friends": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"finance": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"relaxation": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+],
+"self-realization": [
+    {"id": 1,"question": "how do you rate your job", "label":"I'm not Happy with my work", "label1":"My work inspires me"},   
+    {"id": 2,"question": "how do you rate your relationship", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 3,"question": "how do you rate your family", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 4,"question": "how do you rate your health", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 5,"question": "how do you rate your friends", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 6,"question": "how do you rate your finance", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 7,"question": "how do you rate your relaxation", "label":"I'm not Happy with my work", "label1":"My work inspires me"}, 
+    {"id": 8,"question": "how do you rate your self-realization", "label":"I'm not Happy with my work", "label1":"My work inspires me"}
+]
+}
